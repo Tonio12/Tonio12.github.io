@@ -61,13 +61,14 @@ hr{
     padding: 50px 0 20px;
 }
 
+
 .myimg {
     border-radius: 100%;
 }
 
 .buttom-cloud {
     position: absolute;
-    right: 200, 20,0,0;
+    right: 80%;
 }
 
 .top-cloud{
